@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Neha GP
+#### Engineering Student
+![Engineering Student](https://spark.adobe.com/post/RK3dI5S079CGj/)
 
-<!--
-**NehaGP20/NehaGP20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neha from India, I am engineering student, I love to explore new technologies, I really enjoy working on Machine Learning projects, and android app development...My Passion for coding and learning will never end..
 
-Here are some ideas to get you started:
+Skills: Java / C / MY SQL / Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
