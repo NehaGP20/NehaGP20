@@ -16,7 +16,12 @@ I'm Neha from India, I am an engineering student, I love to explore new technolo
 - 🌱 I’m currently learning Data Science with ML
 
 ## Examples of Work
+
+1. Trek with Me
+
 <img src = "https://github.com/NehaGP20/NehaGP20/blob/main/trek.gif" width = "256"/>
+
+2. Leaf Detect
 
 <img src = "https://github.com/NehaGP20/NehaGP20/blob/main/leaf.gif" width = "256"/>
 
