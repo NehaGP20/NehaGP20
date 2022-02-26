@@ -3,6 +3,8 @@
 I have recently joined Accolite Digital as Software Engineer. I really enjoy solving Problems using Java and dig deeper in it. FYI Android Coding will always remain my first love. My Passion for coding and learning will never end..
 
 ## Skills and Experience: 
+  * Angular
+  * Typescript
   * ♨ Java  
   * 📱 Android
   * 📚 MY SQL
